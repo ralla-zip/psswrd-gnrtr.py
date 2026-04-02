@@ -26,8 +26,8 @@ Você precisa do Python 3.9 ou superior instalado.
 
 ```bash
 # Clone o repositório
-git clone https://github.com/ralla-zip/password_generator.git
-cd password_generator
+git clone https://github.com/ralla-zip/psswrd-gnrtr.py.git
+cd psswrd-gnrtr.py
 
 # Gerador de senhas
 python password_generator.py
